@@ -36,7 +36,7 @@ $language_array = Array(
 	WebSPELL będzie działać we wszystkich niższych (od PHP 4.3) i wszystkich wyższych wersjach PHP. Skontaktuj się z hostem, aby zmienić wersję PHP.',
 	'php_version'=>'Niezgodna wersja PHP',
 	'tooltip'=>'Adres URL Twojej strony - Jest to adres URL Twojej strony np.(twojastrona.pl). Nie wpisuj http:// przed ścieżką i na końcu ukośnika "/"',
-	'you_have_to_agree'=>'Musisz zgodzić się z licencją GNU GPL, aby zainstalować webSPELL"'"a na serwerze!',
+	'you_have_to_agree'=>'Musisz zgodzić się z licencją GNU GPL, aby zainstalować webSPELL\'a na serwerze!',
 	'your_site_url'=>'Adres URL strony'
 );
 ?>
