@@ -39,7 +39,7 @@ $language_array = Array(
 					<ul><li><b>Adres URL strony</b></li></ul>
 					<ul><li><b>Dane do bazy MySQL</b></li></ul>
 					Dziękujemy za wybranie WebSPELL\'a',
-    'welcome_to'=>'Witaj w instalacji WebSPELL\a!',
+    'welcome_to'=>'Witaj w instalacji WebSPELL\'a!',
 	'installerlocked'=>'Instalacja nie mogła zostać uruchomiona, usuń plik "locked.txt" z folderu instalacji, aby rozpocząć instalację.'
 );
 ?>
