@@ -29,10 +29,12 @@
 \__________________________________________________________________*/
 
 $language_array = Array(
-	'new_install'=>'Nie aktualizuj / Nowa instalacja',
+	'new_install'=>'Nie aktualizuj / Nowa instalacja Webspell-RM (Wersja: 2.0.2 )',
 	'select_install'=>'Wybierz instalację',
-	'update_1_2'=>'Aktualizacja z Webspell-RM (Wersja: 2.0.0 - Update: 1.1 ) do Webspell-RM (Wersja: 2.0.1 )',
-	'update_125_201'=>'Aktualizacja z Webspell-NOR (Wersja: 1.2.5 ) do Webspell-RM (Wersja: 2.0.1 )',
+	'update_200_201'=>'Aktualizacja z Webspell-RM (Wersja: 2.0.0 - Update: 1.1 ) auf Webspell-RM (Wersja: 2.0.1 )',
+	'update_201_202'=>'Aktualizacja z Webspell-RM (Wersja: 2.0.1) do Webspell-RM (Wersja: 2.0.2 )',
+	'update_125_202'=>'Aktualizacja z Webspell-NOR (Wersja: 1.2.5 ) do Webspell-RM (Wersja: 2.0.2 )',
+	'update_org_202'=>'Aktualizacja z Webspell.org (Wersja: 4.2.5 ) do Webspell-RM (Wersja: 2.0.2 )',
 	'what_to_do'=>'Co chcesz zrobić?'
 );
 ?>
